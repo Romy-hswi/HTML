@@ -17,10 +17,14 @@
     body {
       background-color: #00A9DA;  
     } 
-
-    table {
-      border: 2px solid black;  /* Setzt einen schwarzen Rand für die gesamte Tabelle */
-      border-collapse: collapse; /* Verhindert doppelte Ränder zwischen Zellen */
+table {
+      width: 100%;
+      border-collapse: collapse;  /* Verhindert doppelte Ränder zwischen den Zellen */
+    }
+    th, td {
+      border: 1px solid black;  /* Setzt einen schwarzen Rand für jede Zelle */
+      padding: 8px;              /* Fügt Abstand innerhalb der Zellen hinzu */
+      text-align: left;          /* Text links ausrichten */
     }
  
       /* Stil für den ersten Bereich */
