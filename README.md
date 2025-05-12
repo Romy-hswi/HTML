@@ -4,7 +4,7 @@
 
 | Zeit | Montag | Dienstag | Mittwoch | Donnerstag | Freitag |
 | --- | --- | --- | --- | --- | --- |
-| 08:15-09:45 |  |  | Buchführung | Analysis | Datenbanken |
+| 08:15-09:45 |  |  | [Buchführung](#Buchführung) | Analysis | Datenbanken |
 | 10:00 – 11:30 | Grundlagen der Informatik | Statistik | Buchführung | Analysis | Datenbanken |
 | 11:45 – 13:15 | Grundlagen der Informatik | Statistik | Buchführung | Analysis |  |
 | 14:15 – 15:45 | Grundlagen der Informatik | Statistik |  |  |  |
@@ -62,8 +62,8 @@ Prüfungsleistung: Klausur zeitlicher Umfang: 120 min
 ### Statistik
 
 Prüfungsleistung: APL zeitlicher Umfang: Teil 1: 105 min, Teil 2: 180 min
-
-### Buchführung
+<a id="Buchführung"> </a>
+### Buchführung 
 
 Prüfungsleistung: Klausur zeitlicher Umfang: 120 min
 
